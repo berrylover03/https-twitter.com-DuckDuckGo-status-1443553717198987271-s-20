@@ -1,0 +1,8 @@
+.ds_store
+/node_modules
+/.cache
+/build
+/public/build
+.eslintcache
+.vercel
+/app/styles/**/*.css
